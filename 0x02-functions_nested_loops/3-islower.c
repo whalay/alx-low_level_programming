@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * 3-islower - check if a numbet is lower or not
+ * islower - check if a numbet is lower or not
  *
  * Return: (0)
  */

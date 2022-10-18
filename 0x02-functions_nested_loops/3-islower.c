@@ -3,7 +3,9 @@
 /**
  * _islower - check if a numbet is lower or not
  *
- * Return: (0)
+ * @c: The character in ascii
+ *
+ * Return: 1 for lowercase , 0 for else
  */
 
 int _islower(int c)
@@ -13,7 +15,7 @@ int _islower(int c)
 	{
 		return (1);
 	}
-	else 
+	else
 	{
 		return (0);
 	}

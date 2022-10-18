@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * 3-islower.c - check if a numbet is lower or not
+ * 3-islower - check if a numbet is lower or not
  *
  * Return: (0)
  */
 
 int _islower(int c)
 {
+
 	if (c >= 97 && c <= 122)
 	{
 		return (1);
@@ -16,5 +17,6 @@ int _islower(int c)
 	{
 		return (0);
 	}
+
 }
 

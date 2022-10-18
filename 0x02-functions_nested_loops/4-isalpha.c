@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * isalpha - check if  it is number
+ * _isalpha - check if  it is number
  *
  *@c: Ascii character
  *
@@ -18,5 +18,6 @@ int _isalpha(int c)
 	{
 		return (0);
 	}
+	_putchar('\n');
 }
 

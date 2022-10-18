@@ -8,9 +8,16 @@
 
 int main(void)
 {
-	char i = "_putchar";
+	int i;
+	char p[] = "_putchar";
 
-	putchar(i);
+
+	for(i = 0; i <= 9; i++)
+	{
+		_putchar(i);
+	}
+
+	_putchar("\n");
 
 	return (0);
 

@@ -3,7 +3,7 @@
 /**
  * _isalpha - check if  it is number
  *
- *@c: Ascii character
+ * @c: Ascii character
  *
  * Return: 1 if it is a number. 0  otherwise
  */

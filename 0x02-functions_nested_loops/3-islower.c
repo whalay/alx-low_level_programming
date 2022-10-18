@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * islower - check if a numbet is lower or not
+ * _islower - check if a numbet is lower or not
  *
  * Return: (0)
  */
@@ -17,6 +17,6 @@ int _islower(int c)
 	{
 		return (0);
 	}
-
+	_putchar('\n');
 }
 

@@ -7,6 +7,7 @@
  */
 
 void alphabet(void)
+{
 
 	int i;
 

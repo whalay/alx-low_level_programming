@@ -1,18 +1,13 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * print_numbers - print number from 0 -9
- */
-
+* print_numbers -  prints the numbers except 2 and 4.
+*/
 void print_numbers(void)
 {
-	char i;
+	char c;
 
-	for (i = '0'; 1 <= '9'; i++)
-	{
-		_putchar(i);
-	}
+	for (c = '0'; c <= '9'; c++)
+	_putchar(c);
 	_putchar('\n');
-
-}
+}I

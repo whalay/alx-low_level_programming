@@ -1,12 +1,14 @@
 #include "main.h"
 /**
- * 24_hours - check fr last number
- * 
- * Return: success aways
+ * jack_bauer - print every minute
+ *
+ * Return: no return
  */
 
 void jack_bauer(void)
 {
+	int a, b, c, d;
+
 	for (a = 48; a <= 50; a++)
 	{
 		for (b = 48; b <= 57; b++)
@@ -28,19 +30,5 @@ void jack_bauer(void)
 			}
 		}
 	}
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	

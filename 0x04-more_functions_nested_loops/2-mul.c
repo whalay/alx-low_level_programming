@@ -1,6 +1,8 @@
 #include "main.h"
+#include <stdio.h>
+
 /**
- * _mul - multiply two number
+ * mul - multiply two number
  *
  * @a: first number
  * @b: second number

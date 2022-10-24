@@ -4,6 +4,8 @@
 /**
  * reset_to_98 - It reset the poiinter to default 98
  *
+ * @n: int variable to a pointer
+ *
  * Return: void
  */
 

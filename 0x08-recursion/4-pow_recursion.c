@@ -4,7 +4,7 @@
  * _pow_recursion - find the resullt of x power y
  * @x: the number
  * @y: the power
- * Retrun: return thr result of x pow y
+ * Return: return thr result of x pow y
  */
 
 int _pow_recursion(int x, int y)

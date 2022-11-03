@@ -36,3 +36,4 @@ int is_prime_number(int n)
 	if (_sqrt_recursion(n) == -1)
 		return (1);
 }
+
